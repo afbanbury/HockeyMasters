@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace HockeyMasters
 {
-    class Program
+    class Team
     {
-        static void Main(string[] args)
-        {
-            var result = Menu.StartMenu();
-        }
     }
 }
